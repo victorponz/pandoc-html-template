@@ -1,7 +1,3 @@
----
-typora-copy-images-to: assets
----
-
 # pandoc-toc-template.html
 
 This templates can be used in conjunction with `pandoc` to generate an HTML page with a autoscrolling TOC menu showed at top-left corner of the page.
