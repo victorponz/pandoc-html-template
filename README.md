@@ -14,7 +14,7 @@ Please scroll down [the sample page](https://victorponz.github.io/Ciberseguridad
 
 Download `toc-template.html` and copy it into the `pandoc` templates directory, usually (in *nix systems) under `~/.pandoc/templates/` 
 
-> See `pandoc` documentation to install a template in your system. You can type `pandoc --v` to know where is located this templates directory
+> See `pandoc` documentation to install a template in your system. You can type `pandoc -v` to know where is located this templates directory
 
 ## usage
 
