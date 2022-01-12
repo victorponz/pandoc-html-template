@@ -584,3 +584,6 @@ a {
 ul.doc-info {
     list-style: none;
 }
+div.sourceCode{
+    padding:8px;
+}
