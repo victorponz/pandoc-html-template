@@ -587,3 +587,11 @@ ul.doc-info {
 div.sourceCode{
     padding:8px;
 }
+code:not(.sourceCode) {
+    color: #E74C3C;
+    border: solid 1px #e1e4e5;
+    font-family: Consolas;
+    font-size: 90%;
+    font-style: italic;
+    padding: 2px;
+}
