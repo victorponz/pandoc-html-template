@@ -4,7 +4,7 @@ This templates can be used in conjunction with `pandoc` to generate an HTML page
 
 ## Example
 
-Please scroll down [the sample page](https://victorponz.github.io/Ciberseguridad-PePS/pandoc-html-template/Arquitectura-web-Conceptos-generales.html "sample page") to see the toc in action.
+Please scroll down [the sample page](https://victorponz.github.io/symfony-blog-teoria/zona-admin "sample page") to see the toc in action.
 
 #### Screenshot
 
